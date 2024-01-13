@@ -62,7 +62,7 @@ admin.site.register(Toy)
 </details>
 
 ### Migrations
-A new model also means we need to make migrations and migrate:
+A new model also means we need to make migrations and migrate.
 
 <details>
 <summary>
