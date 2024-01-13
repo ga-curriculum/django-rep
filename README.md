@@ -61,6 +61,21 @@ admin.site.register(Toy)
   
 </details>
 
+### Migrations
+A new model also means we need to make migrations and migrate:
+
+<details>
+<summary>
+💡 Do you remember how to do that in our terminal? We will review the code in 5 minutes - don't peek!
+</summary>
+
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+  
+</details>
+
 ### Serializer
 Next stop, serializers.py!
 
