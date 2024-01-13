@@ -1,6 +1,6 @@
 # Django Rep
 
-![Cat-in-a-box](./cat-in-box.svg)
+<img src="./cat-in-box.svg">
 
 ## Road Map
 
