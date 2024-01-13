@@ -1,5 +1,7 @@
 # Django Rep
 
+![Cat-in-a-box](./cat-in-box.svg)
+
 ## Road Map
 
 1. Setup
