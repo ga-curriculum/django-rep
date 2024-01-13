@@ -1,6 +1,6 @@
 # Django Rep
 
-<img src="./cat-in-box.svg" style="height:500px; width:500px;">>
+<img src="./cat-in-box.svg" style="height:500px; width:500px;">
 
 ## Road Map
 
