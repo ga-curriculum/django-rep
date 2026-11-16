@@ -9,7 +9,7 @@
 
 ## 1. Setup
 
-This lesson continues to build-out Cat Collector right where the [_Django One to Many Models_](https://git.generalassemb.ly/SEB-Base-Curriculum/django-one-to-many-models) lesson left off.
+This lesson continues to build-out Cat Collector right where the [_Django One to Many Models_](https://github.com/ga-curriculum/django-one-to-many-models) lesson left off.
 
 Navigate to the django-catcollector directory, enter your virtual environment pipenv shell, then start the web server with python manage.py runserver.
 
